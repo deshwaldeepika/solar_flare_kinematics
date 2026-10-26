@@ -16,4 +16,5 @@ The numerical pipeline applies a dynamic central-difference derivative modeling 
 ### 3. Pipeline Output Analytics
 The classification log successfully separates background noise from solar eruptions, registering three specific transient flare peaks, including a major **X2.8** class solar storm anomaly. 
 
-![GOES Kinematics Output](03_solar_flare_kinematics/goes_flux_kinematics_analysis.png)
+![GOES Kinematics Output](03_solar_flare_kinematics/goes_flux_kinematics_analysis.png)<img width="2000" height="1425" alt="image" src="https://github.com/user-attachments/assets/2289b6dd-9d7f-458b-b644-34cc4fcd3b36" />
+
