@@ -68,5 +68,5 @@ The generated multi-panel graphic provides immediate, undeniable proof of the pr
 
 (GOES Kinematics Output)<img width="2000" height="1425" alt="image" src="https://github.com/user-attachments/assets/2289b6dd-9d7f-458b-b644-34cc4fcd3b36" />
 
-![GOES Kinematics Output](03_solar_flare_kinematics/goes_flux_kinematics_analysis.png)
+
 
