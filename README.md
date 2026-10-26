@@ -79,7 +79,9 @@ The exported visual (`goes_flux_kinematics_analysis.png`) provides immediate ana
 *   **Top Plot:** Shows the raw flux lines tracking perfectly together, proving a shared thermal origin. The color-coded background bands make it instantly obvious when data breaches danger zones.
 *   **Bottom Plot:** Shows the dF/dt derivative flattening out background noise while generating sharp, vertical spikes at the exact moment of a flare's onset. The largest spike catches an extreme ionization acceleration near Hour 14.
 
-![GOES Kinematics Output](02_solar_flare_kinematics/goes_flux_kinematics_analysis.png)
+GOES Kinematics Output
+<img width="2000" height="1425" alt="image" src="https://github.com/user-attachments/assets/2b14616c-ab3a-48d8-a0d0-7c4beeb08c35" />
+
 
 
 
